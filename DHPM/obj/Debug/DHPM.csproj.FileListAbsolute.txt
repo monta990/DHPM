@@ -1,0 +1,129 @@
+C:\Users\monta\OneDrive\Documentos\Visual Studio 2015\Projects\DHPM\DHPM\bin\Debug\DHPM.exe.config
+C:\Users\monta\OneDrive\Documentos\Visual Studio 2015\Projects\DHPM\DHPM\bin\Debug\DHPM.exe
+C:\Users\monta\OneDrive\Documentos\Visual Studio 2015\Projects\DHPM\DHPM\bin\Debug\DHPM.pdb
+C:\Users\monta\OneDrive\Documentos\Visual Studio 2015\Projects\DHPM\DHPM\obj\Debug\DHPM.csprojResolveAssemblyReference.cache
+C:\Users\monta\OneDrive\Documentos\Visual Studio 2015\Projects\DHPM\DHPM\obj\Debug\DHPM.AboutBox.resources
+C:\Users\monta\OneDrive\Documentos\Visual Studio 2015\Projects\DHPM\DHPM\obj\Debug\DHPM.conjuntos.resources
+C:\Users\monta\OneDrive\Documentos\Visual Studio 2015\Projects\DHPM\DHPM\obj\Debug\DHPM.estadistica.resources
+C:\Users\monta\OneDrive\Documentos\Visual Studio 2015\Projects\DHPM\DHPM\obj\Debug\DHPM.mainprog.resources
+C:\Users\monta\OneDrive\Documentos\Visual Studio 2015\Projects\DHPM\DHPM\obj\Debug\DHPM.matrices.resources
+C:\Users\monta\OneDrive\Documentos\Visual Studio 2015\Projects\DHPM\DHPM\obj\Debug\DHPM.Properties.Resources.resources
+C:\Users\monta\OneDrive\Documentos\Visual Studio 2015\Projects\DHPM\DHPM\obj\Debug\DHPM.relaciones.resources
+C:\Users\monta\OneDrive\Documentos\Visual Studio 2015\Projects\DHPM\DHPM\obj\Debug\DHPM.csproj.GenerateResource.Cache
+C:\Users\monta\OneDrive\Documentos\Visual Studio 2015\Projects\DHPM\DHPM\obj\Debug\DHPM.exe
+C:\Users\monta\OneDrive\Documentos\Visual Studio 2015\Projects\DHPM\DHPM\obj\Debug\DHPM.pdb
+C:\Users\monta\OneDrive\Documentos\Visual Studio 2015\Projects\DHPM\DHPM\obj\Debug\DHPM.Funciones.resources
+C:\Users\monta\OneDrive\Documentos\Visual Studio 2015\Projects\DHPM\DHPM\obj\Debug\DHPM.lineas.resources
+C:\Users\monta\OneDrive\Documentos\Visual Studio 2015\Projects\DHPM\DHPM\obj\Debug\DHPM.lineales.resources
+C:\Users\monta\OneDrive\Documentos\Visual Studio 2015\Projects\DHPM\DHPM\obj\Debug\DHPM.cuadraticas.resources
+D:\Edwin\Edwin\OneDrive\Documentos\Visual Studio 2015\Projects\DHPM\DHPM\bin\Debug\DHPM.exe.config
+D:\Edwin\Edwin\OneDrive\Documentos\Visual Studio 2015\Projects\DHPM\DHPM\bin\Debug\DHPM.exe
+D:\Edwin\Edwin\OneDrive\Documentos\Visual Studio 2015\Projects\DHPM\DHPM\bin\Debug\DHPM.pdb
+D:\Edwin\Edwin\OneDrive\Documentos\Visual Studio 2015\Projects\DHPM\DHPM\obj\Debug\DHPM.csprojResolveAssemblyReference.cache
+D:\Edwin\Edwin\OneDrive\Documentos\Visual Studio 2015\Projects\DHPM\DHPM\obj\Debug\DHPM.AboutBox.resources
+D:\Edwin\Edwin\OneDrive\Documentos\Visual Studio 2015\Projects\DHPM\DHPM\obj\Debug\DHPM.conjuntos.resources
+D:\Edwin\Edwin\OneDrive\Documentos\Visual Studio 2015\Projects\DHPM\DHPM\obj\Debug\DHPM.cuadraticas.resources
+D:\Edwin\Edwin\OneDrive\Documentos\Visual Studio 2015\Projects\DHPM\DHPM\obj\Debug\DHPM.estadistica.resources
+D:\Edwin\Edwin\OneDrive\Documentos\Visual Studio 2015\Projects\DHPM\DHPM\obj\Debug\DHPM.Funciones.resources
+D:\Edwin\Edwin\OneDrive\Documentos\Visual Studio 2015\Projects\DHPM\DHPM\obj\Debug\DHPM.lineales.resources
+D:\Edwin\Edwin\OneDrive\Documentos\Visual Studio 2015\Projects\DHPM\DHPM\obj\Debug\DHPM.lineas.resources
+D:\Edwin\Edwin\OneDrive\Documentos\Visual Studio 2015\Projects\DHPM\DHPM\obj\Debug\DHPM.matrices.resources
+D:\Edwin\Edwin\OneDrive\Documentos\Visual Studio 2015\Projects\DHPM\DHPM\obj\Debug\DHPM.Properties.Resources.resources
+D:\Edwin\Edwin\OneDrive\Documentos\Visual Studio 2015\Projects\DHPM\DHPM\obj\Debug\DHPM.relaciones.resources
+D:\Edwin\Edwin\OneDrive\Documentos\Visual Studio 2015\Projects\DHPM\DHPM\obj\Debug\DHPM.csproj.GenerateResource.Cache
+D:\Edwin\Edwin\OneDrive\Documentos\Visual Studio 2015\Projects\DHPM\DHPM\obj\Debug\DHPM.exe
+D:\Edwin\Edwin\OneDrive\Documentos\Visual Studio 2015\Projects\DHPM\DHPM\obj\Debug\DHPM.pdb
+D:\Edwin\Edwin\OneDrive\Documentos\Visual Studio 2015\Projects\DHPM\DHPM\obj\Debug\DHPM.mainform.resources
+D:\Edwin\Edwin\OneDrive\Documentos\Visual Studio 2017\Projects\DHPM\DHPM\bin\Debug\DHPM.exe.config
+D:\Edwin\Edwin\OneDrive\Documentos\Visual Studio 2017\Projects\DHPM\DHPM\bin\Debug\DHPM.exe
+D:\Edwin\Edwin\OneDrive\Documentos\Visual Studio 2017\Projects\DHPM\DHPM\bin\Debug\DHPM.pdb
+D:\Edwin\Edwin\OneDrive\Documentos\Visual Studio 2017\Projects\DHPM\DHPM\obj\Debug\DHPM.csprojResolveAssemblyReference.cache
+D:\Edwin\Edwin\OneDrive\Documentos\Visual Studio 2017\Projects\DHPM\DHPM\obj\Debug\DHPM.AboutBox.resources
+D:\Edwin\Edwin\OneDrive\Documentos\Visual Studio 2017\Projects\DHPM\DHPM\obj\Debug\DHPM.conjuntos.resources
+D:\Edwin\Edwin\OneDrive\Documentos\Visual Studio 2017\Projects\DHPM\DHPM\obj\Debug\DHPM.cuadraticas.resources
+D:\Edwin\Edwin\OneDrive\Documentos\Visual Studio 2017\Projects\DHPM\DHPM\obj\Debug\DHPM.estadistica.resources
+D:\Edwin\Edwin\OneDrive\Documentos\Visual Studio 2017\Projects\DHPM\DHPM\obj\Debug\DHPM.Funciones.resources
+D:\Edwin\Edwin\OneDrive\Documentos\Visual Studio 2017\Projects\DHPM\DHPM\obj\Debug\DHPM.lineales.resources
+D:\Edwin\Edwin\OneDrive\Documentos\Visual Studio 2017\Projects\DHPM\DHPM\obj\Debug\DHPM.lineas.resources
+D:\Edwin\Edwin\OneDrive\Documentos\Visual Studio 2017\Projects\DHPM\DHPM\obj\Debug\DHPM.mainform.resources
+D:\Edwin\Edwin\OneDrive\Documentos\Visual Studio 2017\Projects\DHPM\DHPM\obj\Debug\DHPM.matrices.resources
+D:\Edwin\Edwin\OneDrive\Documentos\Visual Studio 2017\Projects\DHPM\DHPM\obj\Debug\DHPM.Properties.Resources.resources
+D:\Edwin\Edwin\OneDrive\Documentos\Visual Studio 2017\Projects\DHPM\DHPM\obj\Debug\DHPM.relaciones.resources
+D:\Edwin\Edwin\OneDrive\Documentos\Visual Studio 2017\Projects\DHPM\DHPM\obj\Debug\DHPM.csproj.GenerateResource.Cache
+D:\Edwin\Edwin\OneDrive\Documentos\Visual Studio 2017\Projects\DHPM\DHPM\obj\Debug\DHPM.exe
+D:\Edwin\Edwin\OneDrive\Documentos\Visual Studio 2017\Projects\DHPM\DHPM\obj\Debug\DHPM.pdb
+C:\Users\monta\OneDrive\Documentos\Visual Studio 2017\Projects\DHPM\DHPM\bin\Debug\DHPM.exe.config
+C:\Users\monta\OneDrive\Documentos\Visual Studio 2017\Projects\DHPM\DHPM\bin\Debug\DHPM.exe
+C:\Users\monta\OneDrive\Documentos\Visual Studio 2017\Projects\DHPM\DHPM\bin\Debug\DHPM.pdb
+C:\Users\monta\OneDrive\Documentos\Visual Studio 2017\Projects\DHPM\DHPM\obj\Debug\DHPM.csprojResolveAssemblyReference.cache
+C:\Users\monta\OneDrive\Documentos\Visual Studio 2017\Projects\DHPM\DHPM\obj\Debug\DHPM.AboutBox.resources
+C:\Users\monta\OneDrive\Documentos\Visual Studio 2017\Projects\DHPM\DHPM\obj\Debug\DHPM.conjuntos.resources
+C:\Users\monta\OneDrive\Documentos\Visual Studio 2017\Projects\DHPM\DHPM\obj\Debug\DHPM.cuadraticas.resources
+C:\Users\monta\OneDrive\Documentos\Visual Studio 2017\Projects\DHPM\DHPM\obj\Debug\DHPM.estadistica.resources
+C:\Users\monta\OneDrive\Documentos\Visual Studio 2017\Projects\DHPM\DHPM\obj\Debug\DHPM.Funciones.resources
+C:\Users\monta\OneDrive\Documentos\Visual Studio 2017\Projects\DHPM\DHPM\obj\Debug\DHPM.lineales.resources
+C:\Users\monta\OneDrive\Documentos\Visual Studio 2017\Projects\DHPM\DHPM\obj\Debug\DHPM.lineas.resources
+C:\Users\monta\OneDrive\Documentos\Visual Studio 2017\Projects\DHPM\DHPM\obj\Debug\DHPM.mainform.resources
+C:\Users\monta\OneDrive\Documentos\Visual Studio 2017\Projects\DHPM\DHPM\obj\Debug\DHPM.matrices.resources
+C:\Users\monta\OneDrive\Documentos\Visual Studio 2017\Projects\DHPM\DHPM\obj\Debug\DHPM.Properties.Resources.resources
+C:\Users\monta\OneDrive\Documentos\Visual Studio 2017\Projects\DHPM\DHPM\obj\Debug\DHPM.relaciones.resources
+C:\Users\monta\OneDrive\Documentos\Visual Studio 2017\Projects\DHPM\DHPM\obj\Debug\DHPM.csproj.GenerateResource.Cache
+C:\Users\monta\OneDrive\Documentos\Visual Studio 2017\Projects\DHPM\DHPM\obj\Debug\DHPM.exe
+C:\Users\monta\OneDrive\Documentos\Visual Studio 2017\Projects\DHPM\DHPM\obj\Debug\DHPM.pdb
+C:\Users\monta\OneDrive\Documentos\Visual Studio 2017\Projects\DHPM\DHPM\bin\Debug\ZedGraph.dll
+C:\Users\monta\OneDrive\Documentos\Visual Studio 2017\Projects\DHPM\DHPM\bin\Debug\ZedGraph.xml
+C:\Users\monta\OneDrive\Documentos\Visual Studio 2017\Projects\DHPM\DHPM\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\monta\OneDrive\Documentos\Visual Studio 2017\Projects\DHPM\DHPM\obj\Debug\DHPM.graficacion.resources
+D:\Edwin\Edwin\OneDrive\Documentos\Visual Studio 2017\Projects\DHPM\DHPM\bin\Debug\ZedGraph.dll
+D:\Edwin\Edwin\OneDrive\Documentos\Visual Studio 2017\Projects\DHPM\DHPM\bin\Debug\ZedGraph.xml
+D:\Edwin\Edwin\OneDrive\Documentos\Visual Studio 2017\Projects\DHPM\DHPM\bin\Debug\de\ZedGraph.resources.dll
+D:\Edwin\Edwin\OneDrive\Documentos\Visual Studio 2017\Projects\DHPM\DHPM\bin\Debug\es\ZedGraph.resources.dll
+D:\Edwin\Edwin\OneDrive\Documentos\Visual Studio 2017\Projects\DHPM\DHPM\bin\Debug\fr\ZedGraph.resources.dll
+D:\Edwin\Edwin\OneDrive\Documentos\Visual Studio 2017\Projects\DHPM\DHPM\bin\Debug\hu\ZedGraph.resources.dll
+D:\Edwin\Edwin\OneDrive\Documentos\Visual Studio 2017\Projects\DHPM\DHPM\bin\Debug\it\ZedGraph.resources.dll
+D:\Edwin\Edwin\OneDrive\Documentos\Visual Studio 2017\Projects\DHPM\DHPM\bin\Debug\ja\ZedGraph.resources.dll
+D:\Edwin\Edwin\OneDrive\Documentos\Visual Studio 2017\Projects\DHPM\DHPM\bin\Debug\pt\ZedGraph.resources.dll
+D:\Edwin\Edwin\OneDrive\Documentos\Visual Studio 2017\Projects\DHPM\DHPM\bin\Debug\ru\ZedGraph.resources.dll
+D:\Edwin\Edwin\OneDrive\Documentos\Visual Studio 2017\Projects\DHPM\DHPM\bin\Debug\sk\ZedGraph.resources.dll
+D:\Edwin\Edwin\OneDrive\Documentos\Visual Studio 2017\Projects\DHPM\DHPM\bin\Debug\sv\ZedGraph.resources.dll
+D:\Edwin\Edwin\OneDrive\Documentos\Visual Studio 2017\Projects\DHPM\DHPM\bin\Debug\tr\ZedGraph.resources.dll
+D:\Edwin\Edwin\OneDrive\Documentos\Visual Studio 2017\Projects\DHPM\DHPM\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\Edwin\Edwin\OneDrive\Documentos\Visual Studio 2017\Projects\DHPM\DHPM\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\Edwin\Edwin\OneDrive\Documentos\Visual Studio 2017\Projects\DHPM\DHPM\obj\Debug\DHPM.graficacion.resources
+D:\Edwin\Edwin\Desktop\DHPM\DHPM\bin\Debug\DHPM.exe.config
+D:\Edwin\Edwin\Desktop\DHPM\DHPM\bin\Debug\DHPM.exe
+D:\Edwin\Edwin\Desktop\DHPM\DHPM\bin\Debug\DHPM.pdb
+D:\Edwin\Edwin\Desktop\DHPM\DHPM\bin\Debug\ZedGraph.dll
+D:\Edwin\Edwin\Desktop\DHPM\DHPM\bin\Debug\ZedGraph.xml
+D:\Edwin\Edwin\Desktop\DHPM\DHPM\bin\Debug\de\ZedGraph.resources.dll
+D:\Edwin\Edwin\Desktop\DHPM\DHPM\bin\Debug\es\ZedGraph.resources.dll
+D:\Edwin\Edwin\Desktop\DHPM\DHPM\bin\Debug\fr\ZedGraph.resources.dll
+D:\Edwin\Edwin\Desktop\DHPM\DHPM\bin\Debug\hu\ZedGraph.resources.dll
+D:\Edwin\Edwin\Desktop\DHPM\DHPM\bin\Debug\it\ZedGraph.resources.dll
+D:\Edwin\Edwin\Desktop\DHPM\DHPM\bin\Debug\ja\ZedGraph.resources.dll
+D:\Edwin\Edwin\Desktop\DHPM\DHPM\bin\Debug\pt\ZedGraph.resources.dll
+D:\Edwin\Edwin\Desktop\DHPM\DHPM\bin\Debug\ru\ZedGraph.resources.dll
+D:\Edwin\Edwin\Desktop\DHPM\DHPM\bin\Debug\sk\ZedGraph.resources.dll
+D:\Edwin\Edwin\Desktop\DHPM\DHPM\bin\Debug\sv\ZedGraph.resources.dll
+D:\Edwin\Edwin\Desktop\DHPM\DHPM\bin\Debug\tr\ZedGraph.resources.dll
+D:\Edwin\Edwin\Desktop\DHPM\DHPM\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\Edwin\Edwin\Desktop\DHPM\DHPM\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\Edwin\Edwin\Desktop\DHPM\DHPM\obj\Debug\DHPM.csprojResolveAssemblyReference.cache
+D:\Edwin\Edwin\Desktop\DHPM\DHPM\obj\Debug\DHPM.AboutBox.resources
+D:\Edwin\Edwin\Desktop\DHPM\DHPM\obj\Debug\DHPM.conjuntos.resources
+D:\Edwin\Edwin\Desktop\DHPM\DHPM\obj\Debug\DHPM.cuadraticas.resources
+D:\Edwin\Edwin\Desktop\DHPM\DHPM\obj\Debug\DHPM.estadistica.resources
+D:\Edwin\Edwin\Desktop\DHPM\DHPM\obj\Debug\DHPM.Funciones.resources
+D:\Edwin\Edwin\Desktop\DHPM\DHPM\obj\Debug\DHPM.graficacion.resources
+D:\Edwin\Edwin\Desktop\DHPM\DHPM\obj\Debug\DHPM.lineales.resources
+D:\Edwin\Edwin\Desktop\DHPM\DHPM\obj\Debug\DHPM.lineas.resources
+D:\Edwin\Edwin\Desktop\DHPM\DHPM\obj\Debug\DHPM.mainform.resources
+D:\Edwin\Edwin\Desktop\DHPM\DHPM\obj\Debug\DHPM.matrices.resources
+D:\Edwin\Edwin\Desktop\DHPM\DHPM\obj\Debug\DHPM.Properties.Resources.resources
+D:\Edwin\Edwin\Desktop\DHPM\DHPM\obj\Debug\DHPM.relaciones.resources
+D:\Edwin\Edwin\Desktop\DHPM\DHPM\obj\Debug\DHPM.csproj.GenerateResource.Cache
+D:\Edwin\Edwin\Desktop\DHPM\DHPM\obj\Debug\DHPM.exe
+D:\Edwin\Edwin\Desktop\DHPM\DHPM\obj\Debug\DHPM.pdb
+C:\Users\monta\OneDrive\Documentos\Visual Studio 2017\Projects\DHPM\DHPM\obj\Debug\DHPM.escalar.resources
+D:\Edwin\Edwin\OneDrive\Documentos\Visual Studio 2017\Projects\DHPM\DHPM\obj\Debug\DHPM.escalar.resources
+C:\Users\monta\OneDrive\Documentos\Visual Studio 2017\Projects\DHPM\DHPM\obj\Debug\DHPM.Validaciones.resources
